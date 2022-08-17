@@ -1,0 +1,26 @@
+:host {
+    display: block;
+}
+
+.header {
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 4rem;
+}
+
+nav {
+
+    a {
+        padding: 0rem 2rem;
+        font-size: 20px;
+        color: white;
+        text-decoration: none;
+    }
+}
